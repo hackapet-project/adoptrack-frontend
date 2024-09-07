@@ -1,6 +1,6 @@
 # AdopTrack
 
-[English](#english) | [Español](#español)
+[English](README.md) | [Español](README.es.md)
 
 ## English
 
